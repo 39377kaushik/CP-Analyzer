@@ -1,6 +1,6 @@
 # Competitive Programmer's Analyzer
 
-## cp-anlyzr
+## cp-analyzer
 Our plan is to make a competitive programmer's analyzer which will take handle_name or username or email of a competitive programmer and show some graphs and statistics for that handle. We will show many graphs to represent current condition of a user, his activity, progress in problem solving.
 
 ### Our Planed Features
